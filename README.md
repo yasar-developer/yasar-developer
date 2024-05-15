@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Yasar, a full stack developer and AI/ML Engineer.
+- 👀 I’m interested in creating innovative products that integrate software development with electronics and AI/ML technologies.
+- 💞️ I’m looking to collaborate on exciting projects that explore the intersection of software, hardware, and artificial intelligence.
+- 📫 You can reach me at yasarconnect@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about both coding and electronics, and I often find parallels between the two in terms of creativity and problem-solving!
